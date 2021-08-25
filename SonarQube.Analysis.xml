@@ -1,0 +1,8 @@
+<SonarQubeAnalysisProperties  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+<Property Name="sonar.projectKey">dotnet-ci-demo</Property>
+<Property Name="sonar.login">58802ff199b23a725c1530fc19aa4e5a65b37908</Property>
+<Property Name="sonar.cs.opencover.reportsPaths">coverage.opencover.xml</Property>
+<Property Name="sonar.links.scm">https://github.com/architecture-it/dotnet-ci-demo</Property>
+<Property Name="sonar.links.ci">http://jenkdcsrv:8080/blue/organizations/jenkins/dotnet-ci-demo/activity</Property>
+<Property Name="sonar.analysis.team">TYDNORTE</Property>
+</SonarQubeAnalysisProperties>
